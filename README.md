@@ -13,13 +13,6 @@ Este projeto é um sistema de leilão online desenvolvido em Go. O sistema permi
   docker-compose up --build
   ```
 
-## Para executar os testes
-
-  Utilize o comando:
-  ```sh
-  docker-compose exec auction-app go test ./internal/infra/database/auction -v
-  ```
-
 ## **Parar os serviços**
 
   Utilize o seguinte comando:
