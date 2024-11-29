@@ -32,7 +32,7 @@ Este projeto é um sistema de leilão online desenvolvido em Go. O sistema permi
 - `GET /user/:userId`: Busca um usuário pelo ID
 
 
-## Para rodar os testes de fechamento automático de leilões, siga os passos abaixo:
+## Para rodar os testes, siga os passos abaixo:
 
 1. Garanta que o MongoDB está em execução na sua máquina local.
 2. Execute o comando a seguir para rodar os testes:
